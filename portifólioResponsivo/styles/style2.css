@@ -107,6 +107,7 @@ strong{
 
 .apresentacao__links__link:hover{
     background-color: var(--cor-hover);
+    margin: 3%;
     padding: 3%;
 }
 
